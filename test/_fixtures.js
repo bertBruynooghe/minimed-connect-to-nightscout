@@ -34,12 +34,12 @@ var data = module.exports.data = function(overrides) {
          "type" : "ALARM",
          "version" : 1,
          "flash" : false,
-         "datetime" : "Oct 12, 2015 03:12:10",
+         "datetime" : "2018-01-22T20:43:18+01:00",
          "kind" : "Alarm",
          "code" : 102
       },
       "currentServerTime" : 1445091119507,
-      "sMedicalDeviceTime" : "Oct 17, 2015 09:09:14",
+      "sMedicalDeviceTime" : "2015-10-17T09:09:14+01:00",
       "conduitInRange" : true,
       "limits" : [
          {
@@ -56,10 +56,10 @@ var data = module.exports.data = function(overrides) {
       "lastConduitTime" : 0,
       "medicalDeviceBatteryLevelPercent" : 100,
       "reservoirLevelPercent" : 50,
-      "lastSensorTSAsString" : "Oct 17, 2015 09:08:00",
+      "lastSensorTSAsString" : "2018-01-22T20:43:18+01:00",
       "lastName" : "<redacted>",
       "activeInsulin" : {
-         "datetime" : "Oct 17, 2015 09:09:14",
+         "datetime" : "2018-01-22T20:43:18+01:00",
          "version" : 1,
          "amount" : 1.275,
          "kind" : "Insulin"
@@ -78,7 +78,7 @@ var data = module.exports.data = function(overrides) {
       "bgUnits" : "MGDL",
       "sLastSensorTime" : "Oct 17, 2015 09:08:00",
       "lastSensorTS" : 0,
-      "medicalDeviceTimeAsString" : "Oct 17, 2015 09:09:14",
+      "medicalDeviceTimeAsString" : "2018-01-22T20:43:18+01:00",
       "lastSGTrend" : "UP_DOUBLE",
       "lastSensorTime" : 0
     }
